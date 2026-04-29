@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\HeightorNot\bin\Debug\HeightorNot.exe.config
+C:\Users\24731\Documents\VS_Projects\HeightorNot\bin\Debug\HeightorNot.exe
+C:\Users\24731\Documents\VS_Projects\HeightorNot\bin\Debug\HeightorNot.pdb
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.Form1.resources
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.exe
+C:\Users\24731\Documents\VS_Projects\HeightorNot\obj\Debug\HeightorNot.pdb

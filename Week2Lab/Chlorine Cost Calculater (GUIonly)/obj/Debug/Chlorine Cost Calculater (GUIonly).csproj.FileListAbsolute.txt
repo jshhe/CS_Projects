@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\bin\Debug\Chlorine Cost Calculater (GUIonly).exe.config
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\bin\Debug\Chlorine Cost Calculater (GUIonly).exe
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\bin\Debug\Chlorine Cost Calculater (GUIonly).pdb
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine Cost Calculater (GUIonly).csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine_Cost_Calculater__GUIonly_.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine_Cost_Calculater__GUIonly_.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine Cost Calculater (GUIonly).csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine Cost Calculater (GUIonly).csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine Cost Calculater (GUIonly).exe
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Chlorine Cost Calculater (GUIonly)\obj\Debug\Chlorine Cost Calculater (GUIonly).pdb

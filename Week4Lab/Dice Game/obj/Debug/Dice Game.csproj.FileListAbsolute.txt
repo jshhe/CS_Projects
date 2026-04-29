@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\bin\Debug\Dice Game.exe.config
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\bin\Debug\Dice Game.exe
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\bin\Debug\Dice Game.pdb
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice Game.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice_Game.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice_Game.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice Game.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice Game.exe
+C:\Users\24731\Documents\VS_Projects\Week4Lab\Dice Game\obj\Debug\Dice Game.pdb

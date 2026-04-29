@@ -1,0 +1,16 @@
+Name                 Monthly Sales   Level      Commission     
+-----------------------------------------------------------------
+Charlie Faumuina     12642           2          1011.36        
+Sione Mafileo        19248           4          3464.64        
+Nic Mayhew           16412           3          1969.44        
+Sam Prattley         12270           1          613.50         
+Ofa Tuungafasi       14939           4          2689.02        
+Namatahi Waa         15667           1          783.35         
+Quentin MacDonald    4467            3          536.04         
+Matt Moulds          9058            2          724.64         
+James Parsons        6968            2          557.44         
+
+--- SUMMARY ---
+Total Salespeople: 9
+Total Monthly Sales: ¥111,671.00
+Total Commission to be paid: ¥12,349.43

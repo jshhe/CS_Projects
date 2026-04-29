@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\bin\Debug\Drawer.exe.config
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\bin\Debug\Drawer.exe
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\bin\Debug\Drawer.pdb
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.exe
+C:\Users\24731\Documents\VS_Projects\Week2Lab\Drawer\obj\Debug\Drawer.pdb

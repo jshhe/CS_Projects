@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\bin\Debug\TraficlightDrawer.exe.config
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\bin\Debug\TraficlightDrawer.exe
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\bin\Debug\TraficlightDrawer.pdb
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.exe
+C:\Users\24731\Documents\VS_Projects\Week4Lab\TraficlightDrawer\obj\Debug\TraficlightDrawer.pdb

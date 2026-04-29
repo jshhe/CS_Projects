@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\bin\Debug\Draw Triangle or Square.exe.config
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\bin\Debug\Draw Triangle or Square.exe
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\bin\Debug\Draw Triangle or Square.pdb
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw Triangle or Square.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw_Triangle_or_Square.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw_Triangle_or_Square.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw Triangle or Square.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw Triangle or Square.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw Triangle or Square.exe
+C:\Users\24731\Documents\VS_Projects\Week3Lab\Draw Triangle or Square\obj\Debug\Draw Triangle or Square.pdb

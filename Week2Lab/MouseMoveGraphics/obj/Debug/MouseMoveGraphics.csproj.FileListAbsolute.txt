@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe.config
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.exe
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\bin\Debug\MouseMoveGraphics.pdb
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.exe
+C:\Users\24731\Documents\VS_Projects\Week2Lab\MouseMoveGraphics\obj\Debug\MouseMoveGraphics.pdb

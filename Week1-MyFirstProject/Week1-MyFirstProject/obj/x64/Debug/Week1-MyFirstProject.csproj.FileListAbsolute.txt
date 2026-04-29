@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\bin\x64\Debug\Week1-MyFirstProject.exe.config
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\bin\x64\Debug\Week1-MyFirstProject.exe
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\bin\x64\Debug\Week1-MyFirstProject.pdb
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1-MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1_MyFirstProject.Form1.resources
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1_MyFirstProject.Properties.Resources.resources
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1-MyFirstProject.csproj.GenerateResource.cache
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1-MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1-MyFirstProject.exe
+C:\Users\24731\Documents\VS_Projects\Week1-MyFirstProject\Week1-MyFirstProject\obj\x64\Debug\Week1-MyFirstProject.pdb
