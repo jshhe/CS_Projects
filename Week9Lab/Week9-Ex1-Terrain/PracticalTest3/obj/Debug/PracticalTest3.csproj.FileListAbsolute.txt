@@ -1,0 +1,10 @@
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\bin\Debug\PracticalTest3.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\bin\Debug\PracticalTest3.exe
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\bin\Debug\PracticalTest3.pdb
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.csprojResolveAssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.csproj.GenerateResource.Cache
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.exe
+\\galaxy.its.waikato.ac.nz\HOME\PracticalTest3\PracticalTest3\obj\Debug\PracticalTest3.pdb

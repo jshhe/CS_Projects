@@ -1,0 +1,10 @@
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\bin\Debug\GradeReportGenerator.exe.config
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\bin\Debug\GradeReportGenerator.exe
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\bin\Debug\GradeReportGenerator.pdb
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.csproj.AssemblyReference.cache
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.Form1.resources
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.Properties.Resources.resources
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.csproj.GenerateResource.cache
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.exe
+C:\Users\24731\Documents\CS_Projects\Week9Lab\GradeReportGenerator\obj\Debug\GradeReportGenerator.pdb
