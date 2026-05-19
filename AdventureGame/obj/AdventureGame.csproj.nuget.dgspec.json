@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\AdventureGame.csproj": {}
+    "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\AdventureGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\AdventureGame.csproj": {
+    "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\AdventureGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\AdventureGame.csproj",
+        "projectUniqueName": "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\AdventureGame.csproj",
         "projectName": "AdventureGame",
-        "projectPath": "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\AdventureGame.csproj",
+        "projectPath": "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\AdventureGame.csproj",
         "packagesPath": "C:\\Users\\24731\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\obj\\",
+        "outputPath": "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\24731\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

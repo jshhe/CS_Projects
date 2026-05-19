@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Run_Length_Coding/1.0.0": {
+        "runtime": {
+          "Run_Length_Coding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Run_Length_Coding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\bin\Debug\net10.0\Run_Length_Coding.exe
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\bin\Debug\net10.0\Run_Length_Coding.deps.json
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\bin\Debug\net10.0\Run_Length_Coding.runtimeconfig.json
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\bin\Debug\net10.0\Run_Length_Coding.dll
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\bin\Debug\net10.0\Run_Length_Coding.pdb
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.AssemblyInfoInputs.cache
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.AssemblyInfo.cs
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.csproj.CoreCompileInputs.cache
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.sourcelink.json
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.dll
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\refint\Run_Length_Coding.dll
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.pdb
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\Run_Length_Coding.genruntimeconfig.cache
+C:\Users\24731\Documents\CS_Projects\Week11Lab\Run_Length_Coding\obj\Debug\net10.0\ref\Run_Length_Coding.dll

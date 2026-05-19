@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\",
+  "WorkspaceRootPath": "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49C57395-5B27-3F1F-7411-64A5F4373B17}|AdventureGame.csproj|c:\\users\\24731\\documents\\vs_projects\\week8lab\\adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49C57395-5B27-3F1F-7411-64A5F4373B17}|AdventureGame.csproj|c:\\users\\24731\\documents\\cs_projects\\adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49C57395-5B27-3F1F-7411-64A5F4373B17}|AdventureGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,14 +29,18 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\24731\\Documents\\VS_Projects\\Week8Lab\\AdventureGame\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwBsAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\24731\\Documents\\CS_Projects\\AdventureGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T15:21:51.031Z",
               "EditorCaption": ""

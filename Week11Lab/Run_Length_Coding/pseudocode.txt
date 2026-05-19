@@ -1,0 +1,67 @@
+START
+
+    ON Ctrl+C pressed:
+        EXIT program
+
+    lines = null
+
+    REPEAT FOREVER:
+        Ask user for file path
+        READ inputPath from console
+
+        IF inputPath is empty or whitespace:
+            DISPLAY error "Path cannot be empty"
+            CONTINUE loop
+
+        TRIM quotes and spaces from inputPath
+        GET full path as filePath
+
+        IF file does not exist at filePath:
+            DISPLAY error "File not found"
+            CONTINUE loop
+
+        READ all lines from filePath into lines
+
+        IF lines is empty:
+            DISPLAY error "File is empty"
+            CONTINUE loop
+
+        BREAK loop
+
+    PARSE first line of lines into parts separated by ','
+    IF number of parts >= 2:
+        CONVERT first part to integer width (default 0)
+        CONVERT second part to integer height (default 0)
+    ELSE:
+        DISPLAY error about invalid first line format
+        EXIT program
+
+    pixelData = new empty list of integers
+
+    FOR each line in lines starting from index 1:
+        IF line is empty or whitespace: SKIP to next line
+
+        SPLIT line by ',' and CONVERT each element to integer, store in counts array
+
+        FOR i from 0 to length of counts - 1:
+            count = counts[i]
+            color = i MOD 2
+
+            REPEAT count times:
+                ADD color to pixelData
+
+    pixelsPrinted = 0
+    FOR each pixel in pixelData:
+        IF pixel is 0:
+            PRINT a space (" ")
+        ELSE IF pixel is 1:
+            PRINT a hash ("#")
+
+        INCREMENT pixelsPrinted by 1
+
+        IF pixelsPrinted equals width:
+            PRINT a newline
+            RESET pixelsPrinted to 0
+
+    DISPLAY "Press any key to exit..."
+END
